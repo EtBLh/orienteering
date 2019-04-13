@@ -35,11 +35,12 @@ module main{
             this.core.post('/api/decrypt',(req, res) => {
                 let response = {
                     type:false,
-                    message: ""
+                    message: "",
+                    subMsg: ""
                 }
 
                 if(req.body.value == 'SPSTAR') response.type = true;
-                response.type?response.message = "+853 王嘉怡":"wrong_message."
+                response.type?response.message = "+853 王嘉怡 (接線後請自我介紹) ":"wrong_message."
 
                 res.send(response)
             })
