@@ -1,0 +1,191 @@
+{
+    "planets": [
+        {
+            "type": "link",
+            "content": "https://www.youtube.com/watch?v=cPKfUWDmNbo",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/11.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/20.jpg",
+            "level": "0"
+        },
+        {
+            "type": "text",
+            "content": "CalçadadoQuartel",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/7.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/3.jpg",
+            "level": "0"
+        },
+        {
+            "type": "text",
+            "content": "(0.1billion)+dragon+boomboomboom",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/1.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/10.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/19.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/20.jpg",
+            "level": "0"
+        },
+        {
+            "type": "text",
+            "content": "Ifeeltiredintaipa",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/18.jpg",
+            "level": "0"
+        },
+        {
+            "type": "img",
+            "content": "img/2.jpg",
+            "level": "1"
+        },
+        {
+            "type": "text",
+            "content": "澳門的三更半夜",
+            "level": "1"
+        },
+        {
+            "type": "img",
+            "content": "img/16.jpg",
+            "level": "1"
+        },
+        {
+            "type": "text",
+            "content": "maa1zou2man4faa3cyun1",
+            "level": "1"
+        },
+        {
+            "type": "img",
+            "content": "img/4.jpg",
+            "level": "1"
+        }, 
+        {
+            "type": "img",
+            "content": "img/13.jpg",
+            "level": "1"
+        }, 
+        {
+            "type": "text",
+            "content": "panda said: XXXXXmuseum",
+            "level": "1"
+        },
+        {
+            "type": "img",
+            "content": "img/17.jpg",
+            "level": "1"
+        }, 
+        {
+            "type": "img",
+            "content": "img/21.jpg",
+            "level": "1"
+        }, 
+        {
+            "type": "img",
+            "content": "img/14.jpg",
+            "level": "1"
+        }, 
+        {
+            "type": "text",
+            "content": "OOOOOOOOO have father",
+            "level": "2"
+        }, 
+        {
+            "type": "text",
+            "content": "P.#",
+            "level": "2"
+        }, 
+        {
+            "type": "img",
+            "content": "img/6.jpg",
+            "level": "2"
+        }, 
+        {
+            "type": "img",
+            "content": "img/5.jpg",
+            "level": "2"
+        }, 
+        {
+            "type": "text",
+            "content": "T410STONE",
+            "level": "2"
+        }, 
+        {
+            "type": "img",
+            "content": "img/15.jpg",
+            "level": "2"
+        }, 
+        {
+            "type": "img",
+            "content": "img/12.jpg",
+            "level": "2"
+        }, 
+        {
+            "type": "img",
+            "content": "img/9.png",
+            "level": "3"
+        }, 
+        {
+            "type": "img",
+            "content": "img/23.jpg",
+            "level": "3"
+        }, 
+        {
+            "type": "img",
+            "content": "img/8.png",
+            "level": "3"
+        }
+    ],
+    "checkpoint": [
+        {
+            "location": "1916的聖堂",
+            "time": "10:00-10:30"
+        },
+        {
+            "location": "宋玉生公園",
+            "time": "10:30-12:30"
+        },
+        {
+            "location": "漁人碼頭羅馬競技場旁",
+            "time": "10:30-12:30"
+        },
+        {
+            "location": "大潭山瞭望台",
+            "time": "13:30-15:30"
+        },
+        {
+            "location": "氹仔亭-海鏡石旁",
+            "time": "13:30-15:30"
+        }
+    ]
+}

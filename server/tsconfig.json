@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target":"ES5",
+    "removeComments": true,
+    "outDir": "./build/",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "./*",
+    "./data/*.ts",
+    "./data/*.json",
+    "./data/img/"
+  ]
+}

@@ -1,0 +1,11 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css?family=Geostar|Noto+Serif+TC');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC');
+
+body, html, .App{
+    background-color: rgb(33,47,63);
+    color: white;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+}
